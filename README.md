@@ -15,10 +15,23 @@ And it goes like this:
 
 If I have a number (lets say 5), then, according to the above mentioned badass, if I wanted to get its Parts/Summards are going to be:
 
-`
+```
 Partitions(5):
-5, 4+1, 2+3
-`
+
+1+1+3
+
+1+4
+
+1+2+2
+
+5
+
+2+3
+
+1+1+1+2
+
+1+1+1+1+1
+```
 
 ## Why?
 
