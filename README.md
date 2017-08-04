@@ -31,3 +31,7 @@ Python is a versatile, easy to use language. But it's slow as hell and partition
 Considering this, I wanted to try to optimize it as much as I could in Python and hence gain a better understanding of Python.
 
 Also, because its Python, so why the hell not?
+
+## Why use Multi-Threading?
+
+Why do one thing at a time?
